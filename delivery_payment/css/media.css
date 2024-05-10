@@ -1,0 +1,232 @@
+@media screen and (max-width: 1100px)
+{
+	.delivery .adv_item
+	{
+		padding: 30px;
+	}
+}
+
+@media screen and (max-width: 1000px)
+{
+	.delivery .top_box
+	{
+		font-size: 18px;
+	}
+
+	.delivery .right_text
+	{
+		padding-left: 10px;
+	}
+
+	.delivery .adv_item
+	{
+		width: 100%;
+	}
+
+	.delivery .adv_box
+	{
+		flex-wrap: wrap;
+	}
+
+	.delivery .regions_box
+	{
+		flex-direction: column;
+	}
+
+	.delivery .box
+	{
+		width: 100%;
+	}
+
+	.delivery .box:last-child
+	{
+		margin-top: 50px;
+	}
+
+	.delivery .box_title
+	{
+		margin-bottom: 30px;
+	}
+}
+
+@media screen and (max-width: 750px)
+{
+	.delivery
+	{
+		margin-top: 100px !important;
+	}
+
+	.delivery .title
+	{
+		font-size: 24px;
+	}
+
+	.delivery .img_text
+	{
+		flex-direction: column;
+	}
+
+	.delivery .left_img
+	{
+		width: 100%;
+		margin-bottom: 20px;
+	}
+
+	.delivery .right_text
+	{
+		width: 100%;
+	}
+
+	.delivery .regions_box
+	{
+		margin-top: 30px;
+	}
+
+	.delivery .box_title,
+	.delivery .price
+	{
+		font-size: 20px;
+	}
+
+	.delivery .brand_item
+	{
+		width: 100%;
+		text-align: center;
+	}
+
+	.delivery .about_text
+	{
+		margin-bottom: 20px;
+	}
+}
+
+@media screen and (max-width: 1250px)
+{
+	.delivery .price
+	{
+		width: 240px;
+	}
+
+	.delivery .price_line
+	{
+		align-items: flex-start;
+	}
+}
+
+/*************************/
+
+@media screen and (max-width: 1250px)
+{
+	.payment .tab_box
+	{
+		padding-left: 20px;
+	}
+}
+
+@media screen and (max-width: 1000px)
+{
+	.payment .butt_item
+	{
+		font-size: 18px;
+	}
+
+	.payment .butt_item 
+	{
+		padding: 20px 10px;
+		width: calc(33.3% - 10px);
+	}
+
+	.payment .tab_box 
+	{
+		padding-left: 30px;
+	}
+
+	.payment .bank_item
+	{
+		padding: 30px;
+	}
+
+	.payment .bank_text
+	{
+		padding-left: 20px;
+	}
+
+	.payment .bank_img
+	{
+		width: 150px;
+	}
+
+	.payment .bank_text
+	{
+		width: calc(100% - 150px);
+	}
+
+	.payment .cont-text
+	{
+		font-size: 24px;
+	}
+}
+
+@media screen and (max-width: 750px)
+{
+	.payment .butt_item
+	{
+		width: 100%;
+		margin-bottom: 20px;
+	}
+
+	.payment .doc_img
+	{
+		display: none;
+	}
+
+	.payment .tab_box
+	{
+		padding: 0px;
+		width: 100%;
+	}
+
+	.payment .button_line
+	{
+		margin: 30px 0;
+	}
+
+	.payment .tab_title
+	{
+		font-size: 24px;
+	}
+
+	.payment .card_item
+	{
+		width: 100%;
+		justify-content: center;
+		padding: 30px;
+	}
+
+	.payment .card_item img
+	{
+		max-width: 100%;
+	}
+
+	.payment .bank_item
+	{
+		flex-direction: column;
+	}
+
+	.payment .bank_img,
+	.payment .bank_text
+	{
+		width: 100%;
+		padding: 0px;
+	}
+
+	.payment .bank_img
+	{
+		margin-bottom: 20px;
+	}
+
+	.payment .lizing_text
+	{
+		text-align: left;
+	}
+}

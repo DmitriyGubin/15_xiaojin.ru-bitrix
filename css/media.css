@@ -1,0 +1,253 @@
+@media screen and (max-width: 1768px) {
+}
+@media screen and (max-width: 1680px) {
+}
+@media screen and (max-width: 1600px) {
+}
+@media screen and (max-width: 1440px) {
+}
+@media screen and (max-width: 1366px) {
+  .catalog_block_products_flex_in {
+    width: 23.85%;
+  }
+  .card_block2_flex_right_img {
+    max-width: 1060px;
+  }
+}
+@media screen and (max-width: 1360px) {
+}
+@media screen and (max-width: 1280px) {
+  .catalog_block_products_flex_in {
+    width: 32.15%;
+  }
+  .standard .input-line input {
+    width: 180px;
+  }
+  .heading_block .btn_1 {
+    position: relative;
+    top: 0;
+    margin: 0 0 10px 0;
+  }
+  .card_block2_flex_right_img {
+    max-width: 1060px;
+  }
+}
+@media screen and (max-width: 1100px) {
+  .card_block_flex {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  .card_block_flex_left {
+    margin-bottom: 50px;
+  }
+  .card_block_flex_right {
+    width: 100%;
+  }
+  .card_block2_flex_right_img {
+    max-width: 720px;
+  }
+}
+@media screen and (max-width: 1024px) {
+  .catalog_block_products_flex_in {
+    width: 31.85%;
+  }
+  .catalog_block_products_pages {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  .catalog_block_products_pages_in {
+    width: 100%;
+    justify-content: center;
+    margin: 0 0 20px 0;
+  }
+  .standard .input-line .univ-button {
+    width: 160px;
+  }
+}
+@media screen and (max-width: 980px) {
+  .catalog_block_products_flex_in {
+    width: 31.75%;
+  }
+  .standard .input-line {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  .standard .input-line .univ-button {
+    margin-top: 15px;
+  }
+  .card_block_flex_left {
+    width: 100%;
+  }
+  .card_block2_flex_right_img {
+    max-width: 690px;
+  }
+}
+@media screen and (max-width: 768px) {
+  .catalog_block_products {
+    margin: 0 0 100px 0;
+  }
+  .catalog_block_products_flex {
+    justify-content: space-between;
+  }
+  .catalog_block_products_flex_in {
+    width: 49%;
+    margin: 0 0 20px;
+  }
+  .ctlg_block3 .text-box {
+    font-size: 18px;
+  }
+  footer .contacts-box {
+    margin: 30px 0;
+  }
+  footer .footer-logo,
+  footer .map,
+  footer .hualian-logo {
+    width: 32%;
+    margin: 0px;
+  }
+  footer .footer-logo img,
+  footer .hualian-logo img {
+    width: 100%;
+  }
+  footer .cont-text,
+  footer .politic {
+    font-size: 13px;
+  }
+  .heading {
+    font-size: 18px;
+  }
+  .card_block2_flex_left {
+    width: 180px;
+  }
+  .card_block2_flex_right p > span {
+    font-size: 16px;
+  }
+  .card_block2_flex_right p {
+    font-size: 16px;
+  }
+  .play_vid {
+    width: 80px;
+    height: 80px;
+    background-size: contain;
+    margin: -67px 0 0 -40px;
+  }
+  .card_price_btn {
+    justify-content: space-between;
+  }
+  .card_price_btn_left p {
+    font-size: 36px;
+  }
+  .heading_block .btn_1 {
+    margin: 0 0 20px 0;
+  }
+  .card_block2_flex_right_img {
+    max-width: 520px;
+  }
+}
+@media screen and (max-width: 767px) {
+  .standard .standard-form {
+    position: relative;
+    padding: 20px;
+  }
+  .standard .form-box {
+    width: 100%;
+  }
+  .standard .form-img {
+    position: absolute;
+  }
+  .standard .form-title {
+    margin: 10px 0 50px 80px;
+    font-size: 18px;
+  }
+  .standard .form-sub-title {
+    margin: 20px 0;
+    font-size: 16px;
+  }
+  .standard .input-line input {
+    display: block;
+    width: 100% !important;
+    margin: 0 0 15px 0;
+    font-size: 16px;
+  }
+  .standard .input-line {
+    flex-direction: column;
+  }
+  .standard .input-line .univ-button {
+    margin: 15px auto 0 auto;
+  }
+  .ctlg_block1_inner_txt p {
+    font-size: 16px;
+  }
+  .ctlg_block3 .boxes {
+    flex-wrap: wrap;
+    margin-top: 30px;
+  }
+  .ctlg_block3 .box-item {
+    width: 100%;
+    margin-bottom: 25px;
+  }
+  .slick-dots li button {
+    width: 30px;
+  }
+}
+@media screen and (max-width: 645px) {
+  .page_prev_next {
+    width: 40px;
+    height: 40px;
+  }
+  .catalog_block_products_pages_in_inner a {
+    width: 40px;
+    height: 40px;
+  }
+  .catalog_block_products_flex_in {
+    width: 100%;
+  }
+}
+@media screen and (max-width: 600px) {
+  .card_block {
+    margin: 0 0 60px 0;
+  }
+  .catalog_nav_flex a {
+    font-size: 14px;
+    padding: 10px 10px;
+  }
+  .card_block_flex_right_in {
+    padding: 25px 20px;
+  }
+  .card_block_flex_right_in_inner p {
+    font-size: 16px;
+  }
+  .card_block_flex_right_in_inner span {
+    font-size: 16px;
+  }
+  .card_block_flex_right_in_txt {
+    padding: 0;
+    font-size: 16px;
+  }
+  .card_block2_flex {
+    flex-wrap: wrap;
+    margin: 0 0 30px 0;
+  }
+  .card_block2_flex_left p {
+    width: 100%;
+    margin: 0 0 15px 0;
+  }
+  .card_block2_flex_left p br {
+    display: none;
+  }
+  .card_block2_flex_right {
+    width: 100%;
+  }
+  .card_block2_flex_right_img {
+    width: 100%;
+    padding: 0 20px;
+  }
+  .card_block2_flex_right_img_slider .slick-next {
+    right: -20px;
+  }
+}
+@media screen and (max-width: 480px) {
+  .card_price_btn_left p {
+    font-size: 30px;
+  }
+}

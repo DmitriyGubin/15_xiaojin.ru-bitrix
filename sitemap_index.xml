@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sitemapindex xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	<sitemap>
+		<loc>https://xiaojin.ru/sitemap.xml</loc>
+		<lastmod>2024-05-09T00:30:01+03:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>1</priority>
+	</sitemap>
+	<sitemap>
+		<loc>https://xiaojin.ru/sitemap.xml</loc>
+		<lastmod>2024-05-09T00:30:01+03:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>1</priority>
+	</sitemap>
+</sitemapindex>

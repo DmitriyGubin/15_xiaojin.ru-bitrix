@@ -1,0 +1,179 @@
+.garanty .title
+{
+  text-align: center;
+  font-size: 50px;
+  margin-bottom: 50px;
+}
+
+.garanty .sub_title
+{
+  text-align: center;
+  font-size: 26px;
+  color: #FFFFFF;
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto 70px auto;
+  line-height: 1.5;
+}
+
+.garanty .adv_line
+{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  border-top: 1px solid #252525;
+  padding-top: 70px;
+  margin-bottom: 70px;
+}
+
+.garanty .adv_item
+{
+  width: calc(50% - 20px);
+}
+
+.garanty .adv_item.butt
+{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.garanty .adv_title
+{
+  font-size: 14px;
+  text-transform: uppercase;
+  margin-bottom: 20px;
+  background: linear-gradient(to right, #82D6FF, #8F00FF);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.garanty .adv_text
+{
+  color: #ADADAD;
+  font-size: 26px;
+  line-height: 1.5;
+  margin: 20px 0 0 0; 
+}
+
+.garanty .adv_button
+{
+  margin-top: 35px;
+  width: 100%;
+  max-width: 320px;
+  height: 52px;
+  border-radius: 80px;
+  color: #FFFFFF;
+  font-size: 17px;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background:linear-gradient(-45deg,#1c1620 0%,#3c3481 50%,#4182d2 100%);
+  cursor: pointer;
+}
+
+.garanty .video_box 
+{
+  position: relative;
+  width: 100%;
+  padding-top: 55%;
+  border-radius: 20px;
+  /*background: gray;*/
+}
+
+.garanty .video 
+{
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  border-radius: 20px;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: 50% 50%;
+}
+
+.quest_box .tab_item
+{ 
+  background: #222222;
+  border-radius: 20px;
+  padding: 40px;
+  display: flex;
+  align-items: flex-start;
+  margin-bottom: 20px;
+  cursor: pointer;
+}
+
+.quest_box .arrow
+{
+  margin-top: 10px;
+}
+
+.quest_box .text_box
+{
+  width: calc(100% - 20px);
+  padding-left: 30px;
+}
+
+.quest_box .quest
+{
+  font-size: 26px;
+  color: #FFFFFF;
+}
+
+.quest_box .answer
+{
+  font-size: 18px;
+  color: #ADADAD;
+  margin-top: 30px;
+  transition: none !important;
+}
+
+.quest_box .arrow.active
+{
+  transform: rotate(180deg);
+}
+
+.quest_box .answer *
+{
+  font-weight: 500;
+}
+
+.quest_box .const_text
+{
+  margin-top: 30px;
+}
+
+.quest_box .cont_box
+{
+  margin-top: 30px;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.quest_box .phone
+{
+  color: #FFFFFF;
+  font-size: 40px;
+}
+
+.quest_box .phone_item
+{
+  margin: 0 110px 20px 0;
+}
+
+.quest_box .phone_item:last-child
+{
+  margin: 0 0 20px 0;
+}
+
+.quest_box .text_line a
+{
+  color: #84B4FF; 
+}
+
+.quest_box
+{
+  margin-top: 70px;
+}

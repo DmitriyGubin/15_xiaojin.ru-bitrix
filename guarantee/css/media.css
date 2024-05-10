@@ -1,0 +1,91 @@
+@media screen and (max-width: 750px)
+{
+	.quest_box .answer ul
+	{
+		padding-left: 15px;
+	}
+
+	.garanty
+	{
+		margin-top: 100px !important;
+	}
+
+	.garanty .title
+	{
+		font-size: 24px !important;
+		margin-bottom: 30px;
+	}
+
+	.garanty .sub_title
+	{
+		font-size: 18px;
+		margin-bottom: 30px;
+	}
+
+	.garanty .adv_line
+	{
+		flex-direction: column;
+		padding: 0px;
+		margin: 0px;
+		border: none;
+	}
+
+	.garanty .adv_item
+	{
+		margin-bottom: 40px;
+		width: 100%;
+	}
+
+	.garanty .adv_text
+	{
+		margin: 20px 0 0 0;
+		font-size: 18px;
+	}
+
+	.garanty .adv_button
+	{
+		margin-top: 20px;
+		max-width: 100%;
+	}
+}
+
+/************************/
+@media screen and (max-width: 750px)
+{
+	.quest_box .tab_item
+	{
+		padding: 20px;
+	}
+
+	.quest_box .quest
+	{
+		font-size: 18px;
+	}
+
+	.quest_box .text_box
+	{
+		padding-left: 10px;
+	}
+
+	.quest_box .phone_item,
+	.quest_box .phone_item:last-child
+	{
+		margin: 0 10px 10px 0;
+	}
+
+	.quest_box .phone
+	{
+		font-size: 20px;
+	}
+
+	.quest_box .const_text,
+	.quest_box .cont_box
+	{
+		margin-top: 10px;
+	}
+
+	.quest_box .answer
+	{
+		margin-top: 20px;
+	}
+}
